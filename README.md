@@ -1,5 +1,9 @@
+![Official logo for Montgomery College. It is the initials MC in purple above a gray Montgomery College banner.](https://www.mcinfonet.org/crtvsvc/creativeservices_website/mclogos_page/assets/MClogo_centered_purple_gray_RGB_no_background.png)
 ### Hi there 👋
-
+- 🔭 I’m currently working on updating my workplace package ([mcirp](https://github.com/spoese/mcirp)).
+- 🌱 I’m currently learning how to write reports more effectively in `Quarto`.
+- 💬 Ask me about sports in general, but specifically the 🏈**Commanders**, 🐢**Terps**, 🧢**Caps**, and 🧦**Red Sox**, or [video games](https://na.finalfantasyxiv.com/lodestone/character/1551721/).
+- 😄 Pronouns: he/him
 <!--
 **spoese/spoese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
